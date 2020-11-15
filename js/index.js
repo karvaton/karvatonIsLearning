@@ -1,1 +1,1 @@
-document.getElementsByTagName('h1').innerHTML = 'Hello from JavaScript';
+$('h2').text('Hello from');
